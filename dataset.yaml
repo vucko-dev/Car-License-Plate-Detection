@@ -1,0 +1,6 @@
+path: /Users/srbislav98/Documents/carlicense/Car-License-Plate-Detection/dataset 
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names: ["licence"]
